@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/border_black.xml" value="0.2361111111111111" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/bottom_navigation_foreground.xml" value="0.12708333333333333" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_add_book_gray.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_add_to_book_black.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_add_to_comic_black.xml" value="0.2361111111111111" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_add_to_file.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_book_black.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_book_gray.xml" value="0.12552083333333333" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_delete_gray.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_delete_white.xml" value="0.2361111111111111" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_email_gray.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_favorite_gray.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_favorite_red.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_hot_view.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_logout_white.xml" value="0.12604166666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_more_gray.xml" value="0.12604166666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_update_gray.xml" value="0.20185185185185187" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/ic_update_white.xml" value="0.12552083333333333" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_button01.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_button02.xml" value="0.24166666666666667" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_button03.xml" value="0.12604166666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_button04.xml" value="0.12708333333333333" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_button05.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_edittext01.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_rect01.xml" value="0.12604166666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_toolbar01.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_toolbar02.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/shape_toolbar03.xml" value="0.23794871794871794" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/tab_background_unselected.xml" value="0.12447916666666667" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/drawable/tab_selector.xml" value="0.12447916666666667" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_add_book.xml" value="0.18" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_add_category.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_add_chapter.xml" value="0.33" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_add_comic.xml" value="0.21" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_book_admin.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_category_admin.xml" value="0.2" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_comic_detail_admin.xml" value="0.21" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_detail_comic.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_facebook_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_google_sign_in.xml" value="0.1109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_home_screen_admin.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_home_screen_user.xml" value="0.16" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_read_comic.xml" value="0.1" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_register.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/activity_splash.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/cardview_book.xml" value="0.1109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_add_to_book.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_add_to_book2.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_admin_add_book.xml" value="0.10833333333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_admin_add_category.xml" value="0.15" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_admin_categories.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_admin_comic.xml" value="0.109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_all_book.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_all_comic.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_book.xml" value="0.1109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_book_admin.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_books_admin.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_comic_users.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_favorite.xml" value="0.1109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_fullscreen.xml" value="0.21197916666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_load_category_comic.xml" value="0.1109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_load_list_comic.xml" value="0.11041666666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_options_admin.xml" value="0.10833333333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_person.xml" value="0.25" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/fragment_statistical.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/layout_dialog_add_chapter.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_book.xml" value="0.21" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_category.xml" value="0.22" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_category_horizontal.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_chapter.xml" value="0.25" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_comic.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_comic_horizontal.xml" value="0.2" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_list_comic.xml" value="0.225" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/layout/row_slider.xml" value="0.11041666666666666" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/menu/ic_home_black.xml" value="0.1109375" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/menu/navigation_bottom.xml" value="0.17" />
+        <entry key="..\:/Android/AppMobile/app/src/main/res/menu/navigation_bottom_admin.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

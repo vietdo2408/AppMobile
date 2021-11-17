@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:layout_height="150dp"
+    android:layout_marginEnd="6dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageComicIv"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:src="@color/colorRed"
+                android:scaleType="centerCrop"/>
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:indeterminateTint="@color/light_blue_600" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/nameComicTv"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textSize="12sp"
+            android:fontFamily="sans-serif-light"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:text="Name Comic"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

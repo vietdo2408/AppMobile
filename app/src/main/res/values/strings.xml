@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App Mobile</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="new_user_signup">Tạo tài khoản mới? <b>Sign In</b></string>
+    <string name="Or">Hoặc</string>
+    <string name="register">Đăng Kí</string>
+    <string name="web_client_id" translatable="false">932685751216-nro3jtdp25i8ivukhb300gdpikkttjl8.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">148744230762702</string>
+    <string name="fb_login_protocol_scheme">fb148744230762702</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

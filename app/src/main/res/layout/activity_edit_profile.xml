@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.EditProfileActivity">
+
+    <!--Toolbar-->
+    <RelativeLayout
+        android:id="@+id/toolbarRl"
+        android:background="@drawable/shape_toolbar01"
+        android:layout_width="match_parent"
+        android:layout_height="250dp">
+
+        <!--Back button-->
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:padding="5dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_back_white"
+            android:background="@android:color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/titleTv"
+            android:text="Edit Profile"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="26sp"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RelativeLayout
+            android:layout_below="@id/titleTv"
+            android:layout_centerHorizontal="true"
+            android:layout_width="130dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="130dp">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/profileIv"
+                app:shapeAppearance="@style/styleRoundCornersImage"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ic_person_gray"
+                android:background="@color/white"/>
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:indeterminateTint="@color/light_blue_600"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="225dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--EditText: Input Name-->
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/nameTil"
+            app:hintEnabled="false"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+
+            <EditText
+                android:id="@+id/nameEt"
+                android:drawableStart="@drawable/ic_person_gray"
+                android:background="@drawable/shape_edittext01"
+                android:drawablePadding="10dp"
+                android:hint="Name"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:inputType="textPersonName|textCapWords"
+                android:textColorHint="@color/gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/updateBtn"
+            android:layout_below="@id/nameTil"
+            android:layout_marginTop="20dp"
+            android:text="Update"
+            android:textColor="@color/white"
+            android:background="@drawable/shape_button01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Widget.Theme.AppCompat.Light.NoActionBar.FullScreen.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="styleRoundCornersImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+</resources>

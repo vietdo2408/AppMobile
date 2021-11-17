@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932685751216",
+    "project_id": "app-mobile-51154",
+    "storage_bucket": "app-mobile-51154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932685751216:android:ac3e8b86176c973d0bec75",
+        "android_client_info": {
+          "package_name": "com.quocviet.appmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932685751216-nro3jtdp25i8ivukhb300gdpikkttjl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYaQDTTnp1MuiEEhuVmMjMW0CngyJLTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932685751216-nro3jtdp25i8ivukhb300gdpikkttjl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
